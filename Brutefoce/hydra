@@ -1,0 +1,1 @@
+-l user -P wordlist.txt x.x.x.x (ssh, smb…)
