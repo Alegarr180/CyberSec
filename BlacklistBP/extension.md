@@ -1,0 +1,5 @@
+php phtml, .php, .php3, .php4, .php5, and .inc
+asp asp, .aspx
+perl .pl, .pm, .cgi, .lib
+jsp .jsp, .jspx, .jsw, .jsv, and .jspf
+Coldfusion .cfm, .cfml, .cfc, .dbm
