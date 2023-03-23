@@ -1,2 +1,2 @@
-# Stefaniel's Dump #
-* Comienza tu aventura lagarto
+# CyberSec Dump #
+* Conceptos que me han sido útiles en el pasado para que me resulten útiles en el futuro
